@@ -1,0 +1,19 @@
+{
+  "smsConfig": {
+    "sim5": {
+      "apiKey": "Fill this in"
+    }
+  },
+
+  "emailConfig": {
+    "host": "imap.gmail.com",
+    "port": 993,
+    "secure": true,
+    "auth": {
+      "user": "Fill this in",
+      "pass": "Fill this in"
+    }
+  },
+  "niftyCaptchaKey": "6LeMnHgaAAAAAGKJeoPpHDYHdomeGkU5_RG1y0n_",
+  "capMonsterKey": "Fill this in"
+}
