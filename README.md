@@ -1,5 +1,7 @@
 # Nifty-Account-Gen
 
+EDIT: Since making the project the site has added cloudflare/bot protection so some features no longer work on this build
+
 Create the Following Files in the directory:
 - proxies.txt
 
